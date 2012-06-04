@@ -4,7 +4,7 @@ Serengeti document
 Web service archetecture
 -----------
 Web service archetecture:
-![Web service archetecture (doc/ws-architecture.png)](https://github.com/llhe/readme-editer/raw/master/doc/ws-architecture.png)
+![Web service archetecture (doc/ws-architecture.png)](https://github.com/llhe/readme-editer/raw/master/doc/ws-architecture.png "web service archetecture")
 
 
 `hello world`
