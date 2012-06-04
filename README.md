@@ -1,5 +1,8 @@
 readme-editer
 =============
+Web service arch:
+![Web service archetecture (doc/ws-architecture.png)](https://github.com/twitter/finagle/raw/master/doc/ThreadEx.png)
+=============
 <table>
 <tr><td>Method</td><td>URL Template</td><td>Request</td><td>Response</td><td>Description</td></tr>
 <tr><td>GET</td><td>/hello</td><td>void</td><td>void</td><td></td></tr>
