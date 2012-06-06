@@ -1,8 +1,20 @@
-readme-editer
-=============
-Web service arch:
-![Web service archetecture (doc/ws-architecture.png)](https://github.com/twitter/finagle/raw/master/doc/ThreadEx.png)
-=============
+Serengeti document
+- - -
+
+Web service archetecture
+-----------
+Web service archetecture:
+![Web service archetecture (doc/ws-architecture.png)](https://github.com/llhe/readme-editer/raw/master/doc/ws-architecture.png "web service archetecture")
+
+
+`hello world`
+
+```
+puts a
+```
+
+Web service APIs
+-----------
 <table>
 <tr><td>Method</td><td>URL Template</td><td>Request</td><td>Response</td><td>Description</td></tr>
 <tr><td>GET</td><td>/hello</td><td>void</td><td>void</td><td></td></tr>
