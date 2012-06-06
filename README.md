@@ -39,3 +39,5 @@ Serengeti Web Service providers RESTful API for VC resources managment, hadoop c
 <tr><td>GET</td><td>/distro/{distroName}</td><td>distroName</td><td>DistroRead</td><td>Get a distro by name</td></tr>
 </table>
 
+## Serengeti CLI
+<TODO: Adding CLI instruction...>
