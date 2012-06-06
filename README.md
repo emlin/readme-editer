@@ -8,8 +8,8 @@ To jump into using Serengeti, follow our Installation Instructions.
 ## Serengeti Web Service
 Serengeti Web Service providers RESTful API for VC resources managment, hadoop cluster spec management. And also work as a proxy to invoke Serengeti provision engine and return fine-grained process execution status to caller.
 
-### Web service archetecture
-![Web service archetecture (doc/ws-architecture.png)](https://github.com/llhe/readme-editer/raw/master/doc/ws-architecture.png "web service archetecture")
+### Web service architecture
+![Web service architecture (doc/ws-architecture.png)](https://github.com/llhe/readme-editer/raw/master/doc/ws-architecture.png "web service archetecture")
 
 ### Web service APIs
 <table>
