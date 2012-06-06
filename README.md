@@ -13,7 +13,6 @@ Serengeti Web Service providers RESTful API for VC resources managment, hadoop c
 
 ### Web service archetecture
 
-Web service archetecture:
 ![Web service archetecture (doc/ws-architecture.png)](https://github.com/llhe/readme-editer/raw/master/doc/ws-architecture.png "web service archetecture")
 
 ### Web service APIs
