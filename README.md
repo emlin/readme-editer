@@ -9,7 +9,7 @@ To jump into using Serengeti, follow our Installation Instructions.
 Serengeti Web Service provides RESTful API for VC resources managment and hadoop cluster spec management. It works as a proxy to invoke Serengeti provision engine and return fine-grained process execution status to caller.
 
 ### Web service architecture
-- ![Web service architecture (doc/ws-architecture.png)](https://github.com/llhe/readme-editer/raw/master/doc/ws-architecture.png "web service architecture")
+- ![Web service architecture (doc/ws-architecture.png)](https://github.com/emlin/readme-editer/raw/master/doc/ws-architecture.png "web service architecture")
 
 ### Web service APIs
 <table>
