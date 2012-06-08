@@ -1,4 +1,4 @@
-# Aurora_big_data: Serengeti's Web service and CLI
+# serengeti-ws: Serengeti's Web service and CLI
 Serengeti helps you to deploy Hadoop clusters on vSphere fast and easy. It's a management service, which makes user start with Hadoop very easy.
 This repo holds Serengeti Web Service and CLI.
 
@@ -9,7 +9,7 @@ To jump into using Serengeti, follow our Installation Instructions.
 Serengeti Web Service provides RESTful API for VC resources managment and hadoop cluster spec management. It works as a proxy to invoke Serengeti provision engine and return fine-grained process execution status to caller.
 
 ### Web service architecture
-![Web service architecture (doc/ws-architecture.png)](https://github.com/emlin/readme-editer/raw/master/doc/ws-architecture.png "web service architecture")
+![Web service architecture (doc/ws-architecture.png)](https://github.com/vmware-serengeti/serengeti-ws/raw/master/doc/ws-architecture.png "web service architecture")
 
 ### Web service APIs
 <table>
