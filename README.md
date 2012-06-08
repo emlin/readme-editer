@@ -1,5 +1,5 @@
 # serengeti-ws: Serengeti's Web service and CLI
-Serengeti helps you to deploy Hadoop clusters on vSphere fast and easy. It's a management service, which makes user start with Hadoop very easy.
+Serengeti helps you deploy Hadoop clusters on vSphere fast and easy. It's a management service, which makes user start with Hadoop very easy.
 This repo holds Serengeti Web Service and CLI.
 
 ## Getting Started
