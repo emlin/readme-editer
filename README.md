@@ -3,7 +3,7 @@ Serengeti helps you deploy Hadoop clusters on vSphere fast and easy. It's a mana
 This repo holds Serengeti Web Service and CLI.
 
 ## Getting Started
-To jump into using Serengeti, follow our ![Installation Guid] (https://github.com/vmware-serengeti/doc/raw/master/installation_guide_from_source_code.txt). 
+To jump into using Serengeti, follow our ![Installation Guid] (https://github.com/vmware-serengeti/doc/blob/master/installation_guide_from_source_code.txt). 
 
 ## Serengeti Web Service
 Serengeti Web Service provides RESTful API for VC resources managment and hadoop cluster spec management. It works as a proxy to invoke Serengeti provision engine and return fine-grained process execution status to caller.
