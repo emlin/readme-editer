@@ -40,7 +40,7 @@ Serengeti Web Service provides RESTful API for VC resources managment and hadoop
 </table>
 
 ## Serengeti CLI
-
+<pre><code>
     <proxies>
       <proxy>
         <active>true</active>
@@ -50,5 +50,5 @@ Serengeti Web Service provides RESTful API for VC resources managment and hadoop
         <nonProxyHosts>*.domain.com</nonProxyHosts>
       </proxy>
     </proxies>
-
+</code></pre>
 <TODO: Adding CLI instruction...>
