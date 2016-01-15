@@ -1,5 +1,5 @@
 build:
-  image: buxybox
+  image: busybox
   commands:
     - ls /
     - touch test-finished
