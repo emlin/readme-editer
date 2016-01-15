@@ -1,0 +1,5 @@
+build:
+  image: buxybox
+  commands:
+    - ls /
+    - touch test-finished
